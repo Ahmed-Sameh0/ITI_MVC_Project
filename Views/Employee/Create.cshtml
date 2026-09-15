@@ -1,0 +1,44 @@
+﻿@using WebApplication4.ModelVM.EmployeeVM
+@using WebApplication4.Models.Entities
+@model CreateEmployeeVM
+
+
+<form enctype="multipart/form-data" asp-action="SaveData" asp-controller = "Employee">
+    <div class="form-group">
+        <label for="name1">Name</label>
+        <input asp-for = "Name" type="text" class="form-control" id="name1" aria-describedby="nameHelp" placeholder="Enter name">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <br />
+    
+    <div class="form-group">
+        <label for="age1"> Age</label>
+        <input asp-for = "Age" type="text" class="form-control" id="age1" aria-describedby="ageHelp" placeholder="Enter age">
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Image1">Image</label>
+        <input asp-for="Image" type="file" class="form-control" id="Image1" aria-describedby="ageHelp" placeholder="Enter Image">
+    </div>
+
+    <br />
+
+    @if (ViewBag.ErrorMessage != null)
+    {
+
+        <div class="alert alert-danger" role="alert">
+			@ViewBag.ErrorMessage
+        </div>
+    }
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts
+{
+	<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+	<script src="~/lib/jquery-validation/dist/additional-methods.min.js"></script>
+	<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

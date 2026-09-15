@@ -1,0 +1,26 @@
+﻿@using WebApplication4.ModelVM.EmployeeVM
+@model List<GetAllEmployeeVM>
+
+<a class = "btn btn-info" asp-action="Create" asp-controller="Employee">Create</a>
+<br />
+<br />
+@foreach (var item in Model)
+{
+	<div class="card" style="width: 18rem;">
+		<div class="card-body">
+			<h5 class="card-title">@item.Name</h5>
+			<p class="card-text">Age: @item.Age</p>
+			<br />
+			@if (item.ImagePath != null)
+			{
+				<img src = "~/Files/@item.ImagePath" width="200" length = "200"/>
+			}
+			<br />
+			<br />
+
+			<a class="btn btn-info" asp-action="Edit" asp-controller="Employee" asp-route-id="@item.Id">Edit</a>
+			<a class="btn btn-danger" asp-action="Delete" asp-controller="Employee" asp-route-id="@item.Id">Delete</a>
+		</div>
+	</div>
+}
+ 
