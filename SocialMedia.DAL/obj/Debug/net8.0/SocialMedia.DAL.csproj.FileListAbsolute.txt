@@ -1,0 +1,12 @@
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\bin\Debug\net8.0\SocialMedia.DAL.deps.json
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\bin\Debug\net8.0\SocialMedia.DAL.dll
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\bin\Debug\net8.0\SocialMedia.DAL.pdb
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\obj\Debug\net8.0\SocialMedia.DAL.csproj.AssemblyReference.cache
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\obj\Debug\net8.0\SocialMedia.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\obj\Debug\net8.0\SocialMedia.DAL.AssemblyInfoInputs.cache
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\obj\Debug\net8.0\SocialMedia.DAL.AssemblyInfo.cs
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\obj\Debug\net8.0\SocialMedia.DAL.csproj.CoreCompileInputs.cache
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\obj\Debug\net8.0\SocialMedia.DAL.dll
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\obj\Debug\net8.0\refint\SocialMedia.DAL.dll
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\obj\Debug\net8.0\SocialMedia.DAL.pdb
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.DAL\obj\Debug\net8.0\ref\SocialMedia.DAL.dll

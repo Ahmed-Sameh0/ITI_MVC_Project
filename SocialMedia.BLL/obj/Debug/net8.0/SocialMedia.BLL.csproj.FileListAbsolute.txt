@@ -1,0 +1,17 @@
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\bin\Debug\net8.0\SocialMedia.BLL.deps.json
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\bin\Debug\net8.0\SocialMedia.BLL.runtimeconfig.json
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\bin\Debug\net8.0\SocialMedia.BLL.dll
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\bin\Debug\net8.0\SocialMedia.BLL.pdb
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\bin\Debug\net8.0\SocialMedia.DAL.dll
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\bin\Debug\net8.0\SocialMedia.DAL.pdb
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\obj\Debug\net8.0\SocialMedia.BLL.csproj.AssemblyReference.cache
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\obj\Debug\net8.0\SocialMedia.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\obj\Debug\net8.0\SocialMedia.BLL.AssemblyInfoInputs.cache
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\obj\Debug\net8.0\SocialMedia.BLL.AssemblyInfo.cs
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\obj\Debug\net8.0\SocialMedia.BLL.csproj.CoreCompileInputs.cache
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\obj\Debug\net8.0\SocialMe.9C4C8776.Up2Date
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\obj\Debug\net8.0\SocialMedia.BLL.dll
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\obj\Debug\net8.0\refint\SocialMedia.BLL.dll
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\obj\Debug\net8.0\SocialMedia.BLL.pdb
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\obj\Debug\net8.0\SocialMedia.BLL.genruntimeconfig.cache
+C:\Users\loq\OneDrive\Desktop\SocialMedia-NTier\SocialMedia\SocialMedia.BLL\obj\Debug\net8.0\ref\SocialMedia.BLL.dll
